@@ -32,7 +32,7 @@ a.issue.closed,a.issue.closed:link,a.issue.closed:visited{color:#999;}
 #header{background:url(../images/bg-body.png) repeat-y left top;color:#888888;font-size:11px;height:calc(100% - 32px);left:0;padding-left:9px;padding-right:0;padding-top:0;padding-bottom:0;margin-top:32px;position:fixed;top:0;width:220px;z-index:10;overflow-y: auto;}#header #quick-search{font-family:Arial,Helvetica,sans-serif;line-height:30px;margin:15px 15px 20px 0;padding:0;text-align:right;}
 #header a{color:#CCCCCC;}#header a:hover{color:#fff;text-decoration:none;}
 #header input[type="text"],#header select{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
-#header select{font-size:13px;max-width:205px;padding:0;}
+#header select{font-size:13px;max-width:190px;padding:0;}
 #header input[type="text"]{font-size:11px;padding:2px 2px;width:120px;}
 #header h1{font-family:Calibri,Helvetica,Arial,sans-serif;color:#CCCCCC;font-weight:bold;margin:15px;text-align:right;z-index:50;}
 #main{background:none;margin:0 30px 0 250px;padding:70px 0 0 10px;}#main.nosidebar #content{border:1px solid #CCCCCC;}
