@@ -984,7 +984,8 @@ div.wiki dl {
 }
 h2 img.gravatar {
   vertical-align: top;
-  width: 21px;
+  width: 48px;
+  height: 48px;
 }
 .contextual input[type='text'] {
   margin: 0;
